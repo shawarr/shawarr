@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shawarr
+currently getting familiar with ReactJS & ASP.Net Core MVC for full stack web development
 
 
 <!---
