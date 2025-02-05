@@ -1,4 +1,4 @@
-currently getting familiar with ReactJS & ASP.Net Core MVC for full stack web development
+currently getting familiar with ReactJS & Django for full stack web development
 
 
 <!---
